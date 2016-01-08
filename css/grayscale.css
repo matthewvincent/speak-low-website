@@ -154,6 +154,9 @@ a:focus {
     .button-break {
         display: none;
     }
+    .intro-wrapper {
+        display: none;
+    }
 
 }
 
