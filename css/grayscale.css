@@ -172,7 +172,7 @@ a:focus {
     -o-background-size: cover;
 }
 .intro-wrapper {
-    overflow-x: hidden;
+    overflow: hidden;
 }
 .intro-body {
     overflow-x: hidden;
