@@ -364,6 +364,9 @@ ul.banner-social-buttons {
     .intro {
         overflow-x: hidden;
     }
+    .tour {
+        overflow: scroll;
+    }
     
 }
 
@@ -463,6 +466,4 @@ body {
 .music-link {
     padding-right: 8px;
 }
-.tour {
-    overflow: auto;
-}
+
