@@ -370,6 +370,9 @@ ul.banner-social-buttons {
     .intro {
         overflow-x: hidden;
     }
+    .intro-body {
+        margin-right: 20px;
+    }
     .tour {
         overflow: scroll;
     }
@@ -447,7 +450,9 @@ body {
 
 }
 
-
+.social-wrapper {
+    margin-right: 20px;
+}
 .social-button {
     height: 40px;
     width: 40px;
