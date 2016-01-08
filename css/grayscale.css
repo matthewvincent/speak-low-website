@@ -175,7 +175,7 @@ a:focus {
     overflow: hidden;
 }
 .intro-body {
-    overflow-x: hidden;
+    overflow: hidden;
 }
 .main-logo {
     margin-bottom: -100px;
