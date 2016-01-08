@@ -379,6 +379,9 @@ ul.banner-social-buttons {
     .tour {
         overflow: scroll;
     }
+    .non-mobile-intro-wrapper {
+        display: none;
+    }
     
 }
 
